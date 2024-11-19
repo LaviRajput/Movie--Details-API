@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="100" /> </p>
   <p align="center">
-    <h1 align="center">MOVIE-TMDB-AND-OVERVIEW-FETCH-BY-API</h1>
+    <h1 align="center">MOVIE-Detais-FETCH-BY-API</h1>
 </p>
 
 <p align="center">
